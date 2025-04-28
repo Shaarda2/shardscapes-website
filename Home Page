@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shardscapes Landscaping LLC</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Shardscapes Landscaping LLC</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="inquiry.html">Inquiry</a></li>
+        <li><a href="lead.html">Free Quote</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Your Dream Landscape Awaits</h2>
+      <p>Professional landscaping services for homes and businesses.</p>
+    </section>
+
+    <section class="gallery">
+      <h2>Our Work</h2>
+      <div class="gallery-grid">
+        <img src="images/landscape1.jpg" alt="Landscape Project 1">
+        <img src="images/lawn1.jpg" alt="Lawn Care 1">
+        <img src="images/landscape2.jpg" alt="Landscape Project 2">
+        <img src="images/lawn2.jpg" alt="Lawn Care 2">
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Shardscapes Landscaping LLC. All rights reserved.</p>
+  </footer>
+</body>
+</html>
