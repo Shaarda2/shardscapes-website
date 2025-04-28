@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us | Shardscapes Landscaping LLC</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About Shardscapes Landscaping LLC</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="inquiry.html">Inquiry</a></li>
+        <li><a href="lead.html">Free Quote</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Our Story</h2>
+      <p>We are passionate about creating beautiful, functional outdoor spaces for residential and commercial clients across the area. Quality work. Exceptional Service. Local Experts.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Shardscapes Landscaping LLC. All rights reserved.</p>
+  </footer>
+</body>
+</html>
